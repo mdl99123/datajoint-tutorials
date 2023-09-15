@@ -1,0 +1,32 @@
+1.- course table:
+
+primary: course name
+varchar dpt name
+varchar course description
+
+2.-  Class table
+array:
+student name, and birthday
+
+3.- Boston Marathon table
+
+priamry key is year
+varchar champion_name
+varchar nationaility
+
+
+4.- State
+
+primary key state
+varhcar: capital, state bird, state flowers
+
+5.- HTML
+Primary key: varvhar color name
+int r
+int g
+int b
+
+6.- grades
+primary key email
+int assignment number
+int grade
